@@ -28,4 +28,4 @@ def square_root(num)
   return sqr
 end
 
-square_root("81")
+puts square_root("81")
