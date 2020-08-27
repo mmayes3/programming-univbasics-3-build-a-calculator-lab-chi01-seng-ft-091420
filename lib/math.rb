@@ -27,3 +27,4 @@ def square_root(num)
   sqr = Math.sqrt(num.to_i)
   return sqr
 end
+
